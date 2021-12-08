@@ -43,10 +43,16 @@
             "path": "render_controllers/terminator.render_controllers.json"
         },
         {
+            "path": "texts/docs.md"
+        },
+        {
             "path": "texts/en_GB.lang"
         },
         {
             "path": "texts/en_US.lang"
+        },
+        {
+            "path": "texts/google_translate.py"
         },
         {
             "path": "texts/languages.json"
@@ -55,10 +61,271 @@
             "path": "texts/language_names.json"
         },
         {
+            "path": "texts/py2cache/bs4/builder/_html5lib.py"
+        },
+        {
+            "path": "texts/py2cache/bs4/builder/_htmlparser.py"
+        },
+        {
+            "path": "texts/py2cache/bs4/builder/_lxml.py"
+        },
+        {
+            "path": "texts/py2cache/bs4/builder/__init__.py"
+        },
+        {
+            "path": "texts/py2cache/bs4/builder/__pycache__/_html5lib.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/bs4/builder/__pycache__/_htmlparser.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/bs4/builder/__pycache__/_lxml.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/bs4/builder/__pycache__/__init__.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/bs4/dammit.py"
+        },
+        {
+            "path": "texts/py2cache/bs4/diagnose.py"
+        },
+        {
+            "path": "texts/py2cache/bs4/element.py"
+        },
+        {
+            "path": "texts/py2cache/bs4/formatter.py"
+        },
+        {
+            "path": "texts/py2cache/bs4/testing.py"
+        },
+        {
+            "path": "texts/py2cache/bs4/tests/test_builder_registry.py"
+        },
+        {
+            "path": "texts/py2cache/bs4/tests/test_docs.py"
+        },
+        {
+            "path": "texts/py2cache/bs4/tests/test_html5lib.py"
+        },
+        {
+            "path": "texts/py2cache/bs4/tests/test_htmlparser.py"
+        },
+        {
+            "path": "texts/py2cache/bs4/tests/test_lxml.py"
+        },
+        {
+            "path": "texts/py2cache/bs4/tests/test_soup.py"
+        },
+        {
+            "path": "texts/py2cache/bs4/tests/test_tree.py"
+        },
+        {
+            "path": "texts/py2cache/bs4/tests/__init__.py"
+        },
+        {
+            "path": "texts/py2cache/bs4/__init__.py"
+        },
+        {
+            "path": "texts/py2cache/bs4/__pycache__/dammit.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/bs4/__pycache__/element.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/bs4/__pycache__/formatter.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/bs4/__pycache__/__init__.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/click/core.py"
+        },
+        {
+            "path": "texts/py2cache/click/decorators.py"
+        },
+        {
+            "path": "texts/py2cache/click/exceptions.py"
+        },
+        {
+            "path": "texts/py2cache/click/formatting.py"
+        },
+        {
+            "path": "texts/py2cache/click/globals.py"
+        },
+        {
+            "path": "texts/py2cache/click/parser.py"
+        },
+        {
+            "path": "texts/py2cache/click/py.typed"
+        },
+        {
+            "path": "texts/py2cache/click/shell_completion.py"
+        },
+        {
+            "path": "texts/py2cache/click/termui.py"
+        },
+        {
+            "path": "texts/py2cache/click/testing.py"
+        },
+        {
+            "path": "texts/py2cache/click/types.py"
+        },
+        {
+            "path": "texts/py2cache/click/utils.py"
+        },
+        {
+            "path": "texts/py2cache/click/_compat.py"
+        },
+        {
+            "path": "texts/py2cache/click/_termui_impl.py"
+        },
+        {
+            "path": "texts/py2cache/click/_textwrap.py"
+        },
+        {
+            "path": "texts/py2cache/click/_unicodefun.py"
+        },
+        {
+            "path": "texts/py2cache/click/_winconsole.py"
+        },
+        {
+            "path": "texts/py2cache/click/__init__.py"
+        },
+        {
+            "path": "texts/py2cache/click/__pycache__/core.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/click/__pycache__/decorators.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/click/__pycache__/exceptions.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/click/__pycache__/formatting.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/click/__pycache__/globals.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/click/__pycache__/parser.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/click/__pycache__/termui.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/click/__pycache__/types.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/click/__pycache__/utils.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/click/__pycache__/_compat.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/click/__pycache__/_unicodefun.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/click/__pycache__/_winconsole.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/click/__pycache__/__init__.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/dummy_thread.py"
+        },
+        {
+            "path": "texts/py2cache/httplib.py"
+        },
+        {
+            "path": "texts/py2cache/mimetools.py"
+        },
+        {
+            "path": "texts/py2cache/rfc822.py"
+        },
+        {
+            "path": "texts/py2cache/soupsieve/css_match.py"
+        },
+        {
+            "path": "texts/py2cache/soupsieve/css_parser.py"
+        },
+        {
+            "path": "texts/py2cache/soupsieve/css_types.py"
+        },
+        {
+            "path": "texts/py2cache/soupsieve/pretty.py"
+        },
+        {
+            "path": "texts/py2cache/soupsieve/py.typed"
+        },
+        {
+            "path": "texts/py2cache/soupsieve/util.py"
+        },
+        {
+            "path": "texts/py2cache/soupsieve/__init__.py"
+        },
+        {
+            "path": "texts/py2cache/soupsieve/__meta__.py"
+        },
+        {
+            "path": "texts/py2cache/soupsieve/__pycache__/css_match.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/soupsieve/__pycache__/css_parser.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/soupsieve/__pycache__/css_types.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/soupsieve/__pycache__/pretty.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/soupsieve/__pycache__/util.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/soupsieve/__pycache__/__init__.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/soupsieve/__pycache__/__meta__.cpython-39.pyc"
+        },
+        {
+            "path": "texts/py2cache/urllib2.py"
+        },
+        {
+            "path": "texts/py2cache/urlparse.py"
+        },
+        {
+            "path": "texts/StringIO.py"
+        },
+        {
             "path": "texts/translate.lang.js"
         },
         {
+            "path": "texts/translate_text.py"
+        },
+        {
             "path": "texts/workspace.code-workspace"
+        },
+        {
+            "path": "texts/__pycache__/dummy_thread.cpython-39.pyc"
+        },
+        {
+            "path": "texts/__pycache__/google_translate.cpython-39.pyc"
+        },
+        {
+            "path": "texts/__pycache__/mimetools.cpython-39.pyc"
+        },
+        {
+            "path": "texts/__pycache__/rfc822.cpython-39.pyc"
+        },
+        {
+            "path": "texts/__pycache__/StringIO.cpython-39.pyc"
+        },
+        {
+            "path": "texts/__pycache__/urllib2.cpython-39.pyc"
+        },
+        {
+            "path": "texts/__pycache__/urlparse.cpython-39.pyc"
         },
         {
             "path": "textures/entity/terminator/alex.pdn"
